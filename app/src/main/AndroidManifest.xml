@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.myapplication">
 
+
     <application
         android:name=".ui.MainApplication"
         android:allowBackup="true"
